@@ -4,3 +4,5 @@ var3 = value3
 var4 = value4
 var5 = value5
 var6 = value6
+
+var7 = value7
